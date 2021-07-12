@@ -1,2 +1,2 @@
 [webservers]
-192.168.1.31 ansible_user=marie  ansible_sudo_pass=mariem&;
+172.19.100.110 ansible_user=ramla  ansible_sudo_pass=58833480;
